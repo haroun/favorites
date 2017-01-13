@@ -1,0 +1,26 @@
+{
+  "name": "favorites",
+  "version": "0.0.1",
+  "description": "catalog the things you want to remember",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haroun/favorites.git"
+  },
+  "keywords": [
+    "favorites"
+  ],
+  "author": "Harouna Traoré",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haroun/favorites/issues"
+  },
+  "homepage": "https://github.com/haroun/favorites#readme"
+}
